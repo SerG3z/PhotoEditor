@@ -1,7 +1,9 @@
-package com.example.serg3z.photoeditor;
+package com.example.serg3z.photoeditor.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.serg3z.photoeditor.R;
 
 public class MainActivity extends AppCompatActivity {
 
