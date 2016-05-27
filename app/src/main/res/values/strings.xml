@@ -6,4 +6,17 @@
     <string name="button_mirror_image">Mirror image</string>
     <string name="button_select_image">Select image</string>
 
+    <string name="dialog_title_take_photo">Take Photo</string>
+    <array name="array_dialog_take_photo">
+        <item>from Camera</item>
+        <item>from Gallery</item>
+        <item>from URL</item>
+    </array>
+    
+    <string name="dialog_title_item_result">Selected</string>
+    <array name="array_dialog_item_result">
+        <item>Delete</item>
+        <item>Next</item>
+    </array>
+    
 </resources>
